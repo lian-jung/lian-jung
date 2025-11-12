@@ -4,8 +4,6 @@
   💻 <strong>Software Engineer</strong>
 </p>
 
----
-
 ## 🚀 About Me  
 
 Full-stack developer focused on **TypeScript**, **Node.js**, and **Azure serverless architectures**.  
