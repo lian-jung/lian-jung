@@ -10,7 +10,7 @@ Full-stack developer focused on **TypeScript**, **Node.js**, and **Azure serverl
 Currently working on **ShareThrift** — a peer-to-peer sharing and lending marketplace designed using **Domain-Driven Design (DDD)** principles and **GraphQL APIs**.  
 
 🎯 **Focus:** Domain-Driven Design, Clean Architecture, Serverless Systems  
-📘 **Learning:** Computer science fundamentals, systems design, and advanced cloud patterns  
+📘 **Learning:** Computer science fundamentals, systems design, and cloud patterns  
 🤝 **Open to:** Collaboration and exploring impactful engineering ideas  
 
 ---
